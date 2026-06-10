@@ -1,0 +1,6 @@
+{
+  "name": "HR Portal",
+  "description": "A modern and professional HR Employee Self-Service and Administration Portal featuring RTL support, employee services, document uploads, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
